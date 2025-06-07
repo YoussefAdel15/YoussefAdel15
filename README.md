@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Space Zone]<br><br>🌱 I’m currently learning Kotlin , AI<br><br>👨‍💻 All of my projects are available at https://github.com/YoussefAdel15?tab=repositories
+🌱 I’m currently learning Cloud Computing.<br><br>👨‍💻 All of my projects are available at https://github.com/YoussefAdel15?tab=repositories
 
 
 ## 🌐 Socials:
